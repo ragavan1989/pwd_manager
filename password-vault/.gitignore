@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+vault_data.json
